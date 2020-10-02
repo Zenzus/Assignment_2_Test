@@ -1,6 +1,6 @@
 # Assignment_2_Test
 
-*Computer mouse<br />_
+# **Computer mouse**<br />_
 Identify the types of testing you would perform on a computer mouse, to
 make sure that it is of the highest quality.<br /><br />
 
