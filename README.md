@@ -1,6 +1,6 @@
 # Assignment_2_Test
 
-# **Computer mouse**<br />_
+# **Computer mouse**<br />
 Identify the types of testing you would perform on a computer mouse, to
 make sure that it is of the highest quality.<br /><br />
 
@@ -17,12 +17,12 @@ Og om man kan rolle eller klikke hjulet mens man bevæger musen.<br />
 
 Jeg ville teste om man kunne holde klikket nede om det opfatter der. Også ville jeg se om <br />man kunne bevæge musen men man holder et klik nede.<br /><br />
 
-**Catastrophic failure**<br />
+# **Catastrophic failure**<br />
 Find a story where a software system defect had a bad outcome. Describe what happened. Can you identify a test that would have prevented it?<br /><br />
 
 
 
-**Investigation of tools**<br />
+# **Investigation of tools**<br />
 **JUnit 5**<br />
 Investigate JUnit 5 (Jupiter). Explain the following, and how they are useful.<br/>
 
