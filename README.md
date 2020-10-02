@@ -26,13 +26,13 @@ Find a story where a software system defect had a bad outcome. Describe what hap
 **JUnit 5**<br />
 Investigate JUnit 5 (Jupiter). Explain the following, and how they are useful.<br/>
 
-@Tag <br />
+**@Tag** <br />
 Bruges til at opdele sine test i grupper, hvilket gør sådan at man kan vælge kun at køre nogle af sine test. Dette er smart hvis man har et stort system men man kun vil test små dele af det af gange.<br />
 
-@Disabled <br />
+**@Disabled** <br />
 Gør sådan at testen ikke bliver kørt. Hvilket er ret gør så man ikke behøves at kommentere en test ud som ikke virker.<br />
 
-@RepeatedTest <br />
+**@RepeatedTest <br />**
 Bruges til at sætte hvor mange gange denne test skal køre. Er et brugbart værktøj hvis man vil havde den samme test til at køre med forskellige data.<br />
 
 @BeforeEach, @AfterEach<br />
