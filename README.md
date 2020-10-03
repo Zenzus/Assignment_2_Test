@@ -51,5 +51,8 @@ Gør så du kan lave en klasse inde i dine test hvor du kan lave en specifik
 Bliver brugt til sætte retningslinjer i testene, fx at testen skal kun køre hvis assumeTrue passer, og hvis det ikke er rigtigt bliver testen aborted.
 Er et godt værktøj hvis man på forhånd ved at testen vil fejle hvis ens antagelse ikke passer.<br /><br />
 
-# **Mocking frameworks**
+# **Mocking frameworks**<br />
+Investigate mocking frameworks for your preferred language. Choose at least
+two frameworks, and answer the questions. (One could be Mockito, which
+we saw in class.)<br />
 
